@@ -3,8 +3,8 @@ package main
 import (
 	"flag"
 
-	"versserv"
-	"versserv/cmd"
+	"github.com/AgentZombie/go-embed-version"
+	"github.com/AgentZombie/go-embed-version/cmd"
 )
 
 func main() {

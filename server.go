@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"versserv/cmd"
+	"github.com/AgentZombie/go-embed-version/cmd"
 )
 
 type Server struct {
